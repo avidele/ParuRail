@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\ue5_work\\parurail\\plugins\\gamefeatures\\starrailcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\starrailcoreruntime\\module.starrailcoreruntime.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\ue5_work\\parurail\\intermediate\\build\\win64\\x64\\paruraileditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\ue5_work\\parurail\\plugins\\gamefeatures\\starrailcore\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\starrailcoreruntime\\definitions.starrailcoreruntime.h",
+            "f:\\ue5_work\\parurail\\plugins\\gamefeatures\\starrailcore\\source\\starrailcoreruntime\\private\\starrailcoreruntimemodule.cpp",
+            "f:\\ue5_work\\parurail\\plugins\\gamefeatures\\starrailcore\\source\\starrailcoreruntime\\public\\starrailcoreruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

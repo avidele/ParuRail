@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.StarRailCoreRuntime.cpp.obj": [
+			"StarRailCoreRuntimeModule.cpp.obj"
+		]
+	}
+}
