@@ -32,6 +32,6 @@ protected:
 	void CheckDefaultInitialization();
 
 	/** Pawn data used to create the pawn. Specified from a spawn function or on a placed instance. */
-	UPROPERTY(EditAnywhere, ReplicatedUsing = OnRep_PawnData, Category = "ParuRail|Pawn")
+	UPROPERTY(EditDefaultsOnly, ReplicatedUsing = OnRep_PawnData, Category = "ParuRail|Pawn")
 	TObjectPtr<const UParuRailPawnData> PawnData;
 };
